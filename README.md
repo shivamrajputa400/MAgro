@@ -74,6 +74,7 @@ This project delivers an advanced **Intelligent Agro-Environmental Control Syste
 ---
 
 ## 📸 Screenshots 
+![magro](https://github.com/user-attachments/assets/b26d6f6c-ae49-4aef-a3d4-4dafbbccf050)
 
 
 ---
@@ -86,10 +87,6 @@ This project delivers an advanced **Intelligent Agro-Environmental Control Syste
 
 ---
 
-## 📜 License
-MIT License
-
----
 
 ## 🙋‍♂️ Author
 **SHIVAM RAJPUT** – Embedded Systems & IoT Developer  
