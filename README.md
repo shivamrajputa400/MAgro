@@ -84,7 +84,7 @@ This project delivers an advanced **Intelligent Agro-Environmental Control Syste
 - Enable **historical data logging** to Firebase or MySQL
 - Integrate **DHT11/DHT22** for temperature/humidity-based logic
 - Introduce **automatic scheduling** via RTC or NTPClient
-
+.
 ---
 
 
