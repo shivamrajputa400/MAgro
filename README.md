@@ -1,4 +1,4 @@
-# MAgro# Intelligent Agro-Environmental Control System 🌿☁️
+# MAgro# Intelligent Agro-Environmental Control System 🌿☁️ version 2.0
 _Automated Smart Irrigation with ESP8266 and Cloud-Based IoT Integration_
 
 ## 📅 Timeline
