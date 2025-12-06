@@ -10,7 +10,6 @@ This project delivers an advanced **Intelligent Agro-Environmental Control Syste
 ---
 
 ## 🏗️ System Architecture
-
 ### 🔌 Hardware Components
 - **ESP8266 (NodeMCU)**
 - **Capacitive Soil Moisture Sensor**
